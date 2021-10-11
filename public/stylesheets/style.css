@@ -1,0 +1,22 @@
+body {
+  font-family: Roboto, Helvetica, sans-serif;
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+nav {
+  background-color: #d50000;
+
+}
+
+a.nav-link {
+  background-color: #d50000;
+  color: #ffffff;
+  margin: 10px;
+}
+
+a.nav-link:hover {
+  background-color: #ffffff;
+  color: #d50000;
+  text-align: center;
+}
