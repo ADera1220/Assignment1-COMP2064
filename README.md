@@ -13,5 +13,9 @@
 
 <a href='https://github.com/ADera1220/COMP2064-Assignment1'>LINK TO REACT/EXPRESS APP REPO</a>
 
-https://pixabay.com/illustrations/man-suit-arrow-goal-target-5479727/
-https://pixabay.com/photos/code-coding-computer-data-1839406/
+<h5>Commit 15 | Oct 12th, 2021</h5>
+
+<p>Added remaining content and styling to the page. below are links to the free stock images I used in the About Me page. After completing the assignment, I am mostly dissapointed I could not make the React site work to my liking. I am going to keep learning ti so that I can try again in the future.</p>
+
+<a href='https://pixabay.com/illustrations/man-suit-arrow-goal-target-5479727/'>Photo for Philosophy section</a>
+<a href='https://pixabay.com/photos/code-coding-computer-data-1839406/'>Photo for Qualifications section</a>
