@@ -12,14 +12,18 @@
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
-    <nav class="nav nav-pills nav-fill">
-      <a class="nav-link" href= './'>
-        <img src='../public/images/watchtower-logo.png' class='img-thumbnail' height:'200px' width:'auto' />
-      </a>
-      <a class="nav-link" href="./about">About Me</a>
-      <a class="nav-link" href="./projects">My Projects</a>
-      <a class="nav-link" href="./contact">Contact Me</a>
-    </nav>
-    {{{body}}}
+    <div class='container-fluid'>
+      <div class='container row justify-content-center'>
+        <nav class="nav nav-pills nav-fill rounded">
+          <a class="rounded float-start" href= './'>
+            <img src='watchtower-logo.png' class='img-thumbnail' height:'20px'/>
+          </a>
+          <a class="nav-link btn btn-primary text-center" href="./about">About Me</a>
+          <a class="nav-link btn btn-primary text-center" href="./projects">My Projects</a>
+          <a class="nav-link btn btn-primary text-center" href="./contact">Contact Me</a>
+        </nav>
+        {{{body}}}
+      </div>
+    </div>
   </body>
 </html>

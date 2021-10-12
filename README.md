@@ -12,3 +12,6 @@
 <p>After some trouble with linking and compounding errors with the routing. I decided to restart the project under the original requirements of using express generator and Handlebars, I will keep the original Repository linked here as it shows my progress on this assignment, even if none of the code makes it into the final section.</p>
 
 <a href='https://github.com/ADera1220/COMP2064-Assignment1'>LINK TO REACT/EXPRESS APP REPO</a>
+
+https://pixabay.com/illustrations/man-suit-arrow-goal-target-5479727/
+https://pixabay.com/photos/code-coding-computer-data-1839406/

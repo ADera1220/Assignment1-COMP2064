@@ -1,22 +1,63 @@
-body {
+.container-fluid {
   font-family: Roboto, Helvetica, sans-serif;
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
-nav {
-  background-color: #d50000;
+h1 {
+  margin: 0;
+  text-align: center;
+}
 
+nav {
+  background-color: #ff5131;
+}
+.container {
+  border: 1px solid;
+  border-color: #1985c1;
+  border-radius: 1px;
+  margin: 10px;
+}
+
+.photo {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 400px;
+  width:  max-content;
+}
+
+.img-thumbnail {
+  padding: 0;
+  margin: 10px 0 0 10px;
+  height: 50px;
+}
+
+.card {
+  background-color: #97e6ff;
+  color: #000000;
+  margin: 10px;
+  border-color: #1985c1;
+}
+
+.card-header {
+  text-align: center;
+  margin: 10px;
+  background-color: #1985c1;
+}
+
+.card-text {
+  border:  5px #1985c1;
+  font-size: 16px;
 }
 
 a.nav-link {
   background-color: #d50000;
   color: #ffffff;
   margin: 10px;
+  height: 50px;
 }
 
 a.nav-link:hover {
   background-color: #ffffff;
   color: #d50000;
-  text-align: center;
 }
